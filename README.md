@@ -8,3 +8,9 @@ https://kodaktor.ru/g/dmp13092017
 https://kodaktor.ru/j/myjson_931a5
 
 https://kodaktor.ru/j/myjson_9d3fb
+
+Задания к 13.09.17
+
+1)t=33*10^4*2^7/2^5*11*10^3=120 сек
+
+2)(N^2-N)/2
